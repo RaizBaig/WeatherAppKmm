@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_city">Search City</string>
+    <string name="city">City:</string>
+    <string name="description">Description:</string>
+    <string name="wind">Wind</string>
+    <string name="speed">Speed:</string>
+    <string name="degrees">Degree:</string>
+</resources>
